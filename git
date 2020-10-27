@@ -1,0 +1,19 @@
+ADD
+
+git init
+git status
+git add*
+git commit -m "message"
+
+-------------------------------------
+EDIT
+
+git add popoxvix filer@
+git commit -m "anun"
+got push -u origin master
+
+-------------------------------------
+PULL = вытащить
+
+git remot add origin -> link
+git pull origin master
